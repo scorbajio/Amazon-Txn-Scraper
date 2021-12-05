@@ -85,7 +85,7 @@ if __name__ == '__main__':
   try:
     amazon_transaction_scraper = AmazonTransactionScraper()
     amazon_transaction_scraper.scrape_transactions()
-    amazon_transaction_scraper.write_transactions_to_file(f'./transactions/{datetime.datetime.now().__str__()}.txt')
+    amazon_transaction_scraper.write_transactions_to_file(f'{datetime.datetime.now().__str__()}.txt')
   except Exception as e:
     print(e)
   finally:
