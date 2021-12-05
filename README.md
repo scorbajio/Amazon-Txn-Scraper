@@ -9,7 +9,7 @@
 Clone the repository from github and move into it:
 ```
 git clone git@github.com:Ghorbanian/Amazon-Transaction-Scraper
-cd amazon_txn_scraper/
+cd Amazon-Transaction-Scraper
 ```
 
 Add your Amazon username and password to a `.env` file in the root of the project directory:
