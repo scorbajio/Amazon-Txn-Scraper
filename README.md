@@ -8,7 +8,7 @@
 ## Quick Start ##
 Clone the repository from github and move into it:
 ```
-git clone git@github.com:Ghorbanian/Amazon-Transaction-Scraper.
+git clone git@github.com:Ghorbanian/Amazon-Transaction-Scraper
 cd amazon_txn_scraper/
 ```
 
