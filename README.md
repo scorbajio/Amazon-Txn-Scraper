@@ -22,4 +22,4 @@ Run the `run.sh` script
 bash run.sh
 ```
 
-Find all of your transactions from your amazon account in the `transactions` directory.
+Scraped transactions will appear as text files in the root of the project directory with the date and time of the scrape in the name. 
