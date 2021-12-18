@@ -1,4 +1,5 @@
 # Amazon Transaction Scraper PoC #
+Scrapes all available transactsion for a given Amazon account. 
 
 ## Requirements ##
 * Docker should be installed
